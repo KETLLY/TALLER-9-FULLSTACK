@@ -1,0 +1,47 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "html",
+  "steps": [
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Para copiar rápido: shif+alt+ flecha abajo",
+      "line": 56
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Las secciones y contenedores no muestran nada en el html porque solo son agrupaciones.",
+      "line": 51
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Se pone en class el mismo nombre del padre y con __ se pone la sub clase.",
+      "line": 89
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Cómo se hacen tablas? Así! ",
+      "line": 150
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "un fila",
+      "line": 151
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Tres columnas\r\n",
+      "line": 152
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Este te agrega párrafos.",
+      "line": 54
+    },
+    {
+      "file": "punto 1-3/index.html",
+      "description": "Las h son para poner títulos",
+      "line": 53
+    }
+  ],
+  "ref": "master"
+}
