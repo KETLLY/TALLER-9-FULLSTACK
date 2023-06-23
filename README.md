@@ -6,4 +6,4 @@
 <h2> Punto 2: HTML</h2>
 <img src="./Public/Images/html.png" atl="html">
 <h2>Punto 3: CSS</h2>
-<img src= "./public/images/css.png" alt= "css">
+<img src= "./Public/Images/css.png" alt= "css">
