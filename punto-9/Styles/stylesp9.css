@@ -1,0 +1,11 @@
+.link-1 strong a{
+    color: yellow;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+.link-2{
+    color: blueviolet;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
