@@ -1,0 +1,18 @@
+.banner {
+    background-color: violet;
+    padding: 20px;
+}
+button{
+    color:white;
+    font-weight: normal;
+    background-color: blue;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+span{
+    color: white;
+    font-weight: normal;
+    margin-right: 10px;
+}

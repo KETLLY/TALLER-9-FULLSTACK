@@ -1,0 +1,36 @@
+.poema {
+    font-size: 16px;
+    line-height: 1.5;
+    
+  }
+  
+  .poema span {
+    color: black;
+  }
+  
+  .poema .normal {
+    font-weight: normal;
+    text-decoration: none;
+  }
+  
+  .poema .verde {
+    color: green;
+    text-decoration: underline;
+  }
+  
+  .poema .rojo {
+    color: red;
+  }
+  
+  .poema .negrita {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .poema .azul {
+    color: blue;
+  }
+  
+  .poema .subrayado {
+    text-decoration: underline;
+  }
